@@ -1,2 +1,2 @@
 # groupGame
-test
+Group Java-based game
